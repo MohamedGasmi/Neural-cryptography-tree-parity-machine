@@ -10,22 +10,7 @@ This project implements a neural key exchange protocol using Tree Parity Machine
 
 ## Project Structure
 
-.
-├── images/                            # Diagrams and visual outputs
-│   ├── Evolution of Weight Alice-Bob.png
-│   ├── Final TPM Weights Comparison Alice-BobvsEve.png
-│   ├── TPM Final Weight Matrices Visual Comparison Alice-Bob.png
-│   └── Tree Parity Machine Synchronization BobvsEve.png
-│
-├── notebooks/                         # Jupyter notebooks for simulation & visualization
-│   └── Tree_Parity_Machine_Key_Exchange_and_Attack_Simulation.ipynb
-│
-├── src/                               # Core Python implementation
-│   └── tree_parity_machine_key_exchange_and_attack_simulation.py
-│
-├── .gitignore
-├── LICENSE
-└── README.md
+<pre><code>### 📁 Project Structure ```text . ├── images/ # Diagrams and visual outputs │ ├── Evolution of Weight Alice-Bob.png │ ├── Final TPM Weights Comparison Alice-BobvsEve.png │ ├── TPM Final Weight Matrices Visual Comparison Alice-Bob.png │ └── Tree Parity Machine Synchronization BobvsEve.png │ ├── notebooks/ # Jupyter notebooks for simulation & visualization │ └── Tree_Parity_Machine_Key_Exchange_and_Attack_Simulation.ipynb │ ├── src/ # Core Python implementation │ └── tree_parity_machine_key_exchange_and_attack_simulation.py │ ├── .gitignore ├── LICENSE └── README.md ``` </code></pre>
 
 
 ## How to Run
