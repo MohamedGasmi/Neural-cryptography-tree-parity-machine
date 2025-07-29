@@ -35,7 +35,6 @@ This project implements a neural key exchange protocol using Tree Parity Machine
    git clone https://github.com/mohamedgasmi/Neural-cryptography-tree-parity-machine.git
    cd Neural-cryptography-tree-parity-machine
 
-
 * **2. Install dependencies:**
   No external libraries required (only standard Python modules).
 
