@@ -44,7 +44,7 @@ This project implements a neural key exchange protocol using Tree Parity Machine
 
 * **4. Or run the Python script:**
  ```bash
-  python src/tree_parity_machine_key_exchange_and_attack_simulation.py
+  python src/tree_parity_machine_key_exchange_and_attack_simulation.py```
 
 ## Visuals
             <img src="images/Final TPM Weights Comparison Alice-BobvsEve.png" width="400"/> 
