@@ -11,21 +11,13 @@ This project implements a neural key exchange protocol using Tree Parity Machine
 ## Project Structure
 
 ├── **images**/ # Diagrams and visual outputs
-
 ├── **notebooks**/ # Jupyter notebooks for simulation & visualization
-
-│ └── Tree_Parity_Machine_Key_Exchange_and_Attack_Simulation.ipynb
-
+    └── Tree_Parity_Machine_Key_Exchange_and_Attack_Simulation.ipynb
 ├── **src**/ # Core Python implementation
-
-│ └── tree_parity_machine_key_exchange_and_attack_simulation.py
-
+    └── tree_parity_machine_key_exchange_and_attack_simulation.py
 ├── **.gitignore**
-
 ├── **LICENSE**
-
 └── **README.md**
-
 
 ## How to Run
 
