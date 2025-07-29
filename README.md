@@ -31,9 +31,10 @@ This project implements a neural key exchange protocol using Tree Parity Machine
 ## How to Run
 
 * **1. Clone the repo:**
-   ```bash
-   git clone https://github.com/your_username/your_repo_name.git
-   cd your_repo_name
+  ```bash
+   git clone https://github.com/mohamedgasmi/Neural-cryptography-tree-parity-machine.git
+   cd Neural-cryptography-tree-parity-machine
+
 
 * **2. Install dependencies:**
   No external libraries required (only standard Python modules).
