@@ -10,7 +10,7 @@ This project implements a neural key exchange protocol using Tree Parity Machine
 
 ## Project Structure
 
-<pre><code>### 📁 Project Structure ```text 
+<pre><code>### 
    . ├── images/ # Diagrams and visual outputs 
      │ ├── Evolution of Weight Alice-Bob.png 
      │ ├── Final TPM Weights Comparison Alice-BobvsEve.png 
@@ -25,7 +25,7 @@ This project implements a neural key exchange protocol using Tree Parity Machine
      │ 
      ├── .gitignore 
      ├── LICENSE  
-     └── README.md ``` </code></pre>
+     └── README.md </code></pre>
 
 
 ## How to Run
