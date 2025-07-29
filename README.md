@@ -32,14 +32,14 @@ This project implements a neural key exchange protocol using Tree Parity Machine
 
 * **1. Clone the repo:**
   ```bash
-   git clone https://github.com/mohamedgasmi/Neural-cryptography-tree-parity-machine.git
-   cd Neural-cryptography-tree-parity-machine
+            git clone https://github.com/mohamedgasmi/Neural-cryptography-tree-parity-machine.git
+            cd Neural-cryptography-tree-parity-machine
 
 * **2. Install dependencies:**
   No external libraries required (only standard Python modules).
 
 * **3. Run the notebook:**
-            jupyter notebook notebooks/Tree_Parity_Machine_Key_Exchange_and_Attack_Simulation.ipynb
+  ```bash jupyter notebook notebooks/Tree_Parity_Machine_Key_Exchange_and_Attack_Simulation.ipynb
 
 * **4. Or run the Python script:**
             python src/tree_parity_machine_key_exchange_and_attack_simulation.py
